@@ -271,31 +271,10 @@ The design is intended to verify:
 
 ---
 
-## Applications
-
-* Computer Architecture Research
-* Cache Coherence Studies
-* Hardware Design Education
-* Processor Design Projects
-* SystemVerilog Learning
-* Digital Design Verification
+## EDAplayground link
+https://www.edaplayground.com/x/rsUE
 
 ---
-
-## Future Improvements
-
-Potential extensions include:
-
-* MOESI protocol support
-* Directory-based coherence
-* Multi-level cache hierarchy
-* Non-blocking caches
-* Performance counters
-* Formal verification
-* AXI memory interface integration
-
----
-
 ## Author
 
 Aman Sharma
